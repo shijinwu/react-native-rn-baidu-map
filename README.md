@@ -1,4 +1,4 @@
-# react-native-baidu-map [![npm version](https://img.shields.io/npm/v/react-native-baidu-map.svg?style=flat)](https://www.npmjs.com/package/react-native-baidu-map)
+# react-native-rn-baidu-map [![npm version](https://img.shields.io/npm/v/react-native-baidu-map.svg?style=flat)](https://www.npmjs.com/package/react-native-baidu-map)
 
 Baidu Map SDK modules and views for React Native(Android & iOS), support react native 0.61.2+
 
@@ -9,9 +9,6 @@ Android 版导入的 SDK 包含以下模块：
 - 基础地图（含室内图）
 - 检索功能、LBS云检索
 - 计算工具
-
-### 在线交流
-QQ群：561086908
 
 ### 近期 TODO:
 #### Android

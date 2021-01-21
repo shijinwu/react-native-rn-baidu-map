@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3417fd0b30c76b5ec2477614fb1d157a/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3417fd0b30c76b5ec2477614fb1d157a/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3417fd0b30c76b5ec2477614fb1d157a/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3417fd0b30c76b5ec2477614fb1d157a/core-1.0.1/res/layout-v21/notification_action.xml"
+    }
+]

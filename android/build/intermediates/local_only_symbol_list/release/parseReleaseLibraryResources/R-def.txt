@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+anim pop_hide
+anim pop_show
+drawable bg_project
+drawable bg_project_orange
+drawable bg_project_triangle_blue
+drawable bg_project_triangle_orange
+drawable bg_round_blue
+drawable bg_round_blue2
+drawable bg_round_orange
+drawable popup
+id iv_triangle
+id ll_bg
+id text
+id text1
+id text2
+layout layout_area
+layout layout_marker
+layout layout_project
+layout text_bubble
+mipmap icon_gcoding
+style Bubble.TextAppearance.Dark
+style Bubble.TextAppearance.Light
+style ClusterIcon.TextAppearance
+style Popuwindow

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3ca989ded56e74967e05fee9e8e421e6/jetified-react-native-0.62.2/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3ca989ded56e74967e05fee9e8e421e6/jetified-react-native-0.62.2/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3ca989ded56e74967e05fee9e8e421e6/jetified-react-native-0.62.2/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3ca989ded56e74967e05fee9e8e421e6/jetified-react-native-0.62.2/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/pop_hide.xml",
+        "source": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/src/main/res/anim/pop_hide.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3ca989ded56e74967e05fee9e8e421e6/jetified-react-native-0.62.2/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3ca989ded56e74967e05fee9e8e421e6/jetified-react-native-0.62.2/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/pop_show.xml",
+        "source": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/src/main/res/anim/pop_show.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/workspace_rn/BJ_Agent/agentapp2/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6c09c78f4d04a8238ea939b32521c330/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    }
+]

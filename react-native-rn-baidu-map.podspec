@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "react-native-rn-baidu-map"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "Baidu Map for React Native"
 
   s.description  = <<-DESC
@@ -17,7 +17,6 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/shijinwu/react-native-rn-baidu-map"
-  s.screenshots  = "https://raw.githubusercontent.com/lovebing/react-native-baidu-map/master/images/android.jpg", "https://raw.githubusercontent.com/lovebing/react-native-baidu-map/master/images/ios.jpg"
 
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
@@ -41,7 +40,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source          = { :git => "https://github.com/shijinwu/react-native-rn-baidu-map.git",:tag => 'v1.0.0’}
+  s.source          = { :git => "https://github.com/shijinwu/react-native-rn-baidu-map.git",:tag => 'v1.0.2’}
 
   s.source_files  = "ios/RCTBaiduMap/**/*.{h,m}"
   s.exclude_files = ""
